@@ -5,3 +5,9 @@ introduction/mem
 introduction/threads
 process_api/p1
 process_api/p2
+process_api/homework/q1
+process_api/homework/q2
+*.output
+process_api/homework/q4
+process_api/homework/q8
+process_api/p4
